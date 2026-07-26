@@ -1,0 +1,2 @@
+state_ut,crime_type,year,cases_reported,child_below_6,child_6_to_12,child_12_to_16,child_16_to_18,total_child_victims,adult_18_to_30,adult_30_to_45,adult_45_to_60,adult_60_plus,total_adult_victims,total_victims,child_victim_pct,adult_victim_pct
+Karnataka,Rape,2024,671,0,0,2,5,7,455,194,19,5,673,680,1.0,99.0

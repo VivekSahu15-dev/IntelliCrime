@@ -1,0 +1,179 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@300;400;500;600;700&family=DM+Mono:wght@400;500&display=swap');
+
+@import "tailwindcss";
+
+
+
+
+:root {
+  --ink:      #0D1117;
+  --ink-2:    #1C2333;
+  --ink-3:    #253047;
+  --ink-4:    #364156;
+  --slate-4:  #6B7A99;
+  --slate-2:  #C5CCDB;
+  --slate-1:  #EDF0F7;
+  --signal:   #E63946;
+  --amber:    #F4A261;
+  --teal:     #2EC4B6;
+  --teal-dim: #1a7a73;
+  --green:    #52B788;
+}
+
+* { box-sizing: border-box; margin: 0; padding: 0; }
+
+body {
+  background: var(--ink);
+  color: var(--slate-2);
+  font-family: 'DM Sans', system-ui, sans-serif;
+  font-size: 14px;
+  line-height: 1.6;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* Scrollbar */
+::-webkit-scrollbar { width: 6px; height: 6px; }
+::-webkit-scrollbar-track { background: var(--ink-2); }
+::-webkit-scrollbar-thumb { background: var(--ink-4); border-radius: 3px; }
+
+/* Card */
+.card {
+  background: var(--ink-2);
+  border: 1px solid var(--ink-4);
+  border-radius: 12px;
+  padding: 20px;
+}
+
+/* Stat value */
+.stat-val {
+  font-family: 'DM Mono', monospace;
+  font-size: 28px;
+  font-weight: 500;
+  color: #fff;
+  letter-spacing: -0.5px;
+  line-height: 1.1;
+}
+
+.stat-val-lg {
+  font-family: 'DM Mono', monospace;
+  font-size: 40px;
+  font-weight: 500;
+  color: #fff;
+  letter-spacing: -1px;
+  line-height: 1;
+}
+
+/* Label */
+.label {
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--slate-4);
+}
+
+/* Badge */
+.badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  padding: 2px 8px;
+  border-radius: 100px;
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+}
+.badge-red    { background: rgba(230,57,70,0.15);  color: #ff6b75; }
+.badge-amber  { background: rgba(244,162,97,0.15); color: #f4a261; }
+.badge-green  { background: rgba(82,183,136,0.15); color: #52B788; }
+.badge-teal   { background: rgba(46,196,182,0.15); color: #2EC4B6; }
+.badge-slate  { background: rgba(107,122,153,0.15);color: var(--slate-4); }
+
+/* Risk level colors */
+.risk-critical { color: #ff6b75; }
+.risk-high     { color: #F4A261; }
+.risk-moderate { color: #F9C74F; }
+.risk-low      { color: #52B788; }
+
+/* Leaflet overrides */
+.leaflet-container {
+  background: var(--ink-3) !important;
+  border-radius: 12px;
+}
+.leaflet-tile-pane { filter: brightness(0.3) saturate(0.5); }
+.leaflet-popup-content-wrapper {
+  background: var(--ink-2);
+  border: 1px solid var(--ink-4);
+  border-radius: 10px;
+  color: var(--slate-2);
+  box-shadow: 0 8px 32px rgba(0,0,0,0.6);
+}
+.leaflet-popup-tip { background: var(--ink-2); }
+.leaflet-popup-content { margin: 12px 16px; }
+.leaflet-control-zoom a {
+  background: var(--ink-2) !important;
+  color: var(--slate-2) !important;
+  border-color: var(--ink-4) !important;
+}
+.leaflet-attribution { display: none; }
+
+/* Recharts overrides */
+.recharts-cartesian-grid-horizontal line,
+.recharts-cartesian-grid-vertical line { stroke: var(--ink-4); }
+.recharts-text { fill: var(--slate-4); font-family: 'DM Sans', sans-serif; font-size: 12px; }
+.recharts-tooltip-wrapper .recharts-default-tooltip {
+  background: var(--ink-2) !important;
+  border: 1px solid var(--ink-4) !important;
+  border-radius: 8px !important;
+  color: var(--slate-2) !important;
+}
+
+/* Sidebar nav */
+.nav-item {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 9px 12px;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: all 0.15s;
+  color: var(--slate-4);
+  font-weight: 500;
+  font-size: 13px;
+  border: none;
+  background: none;
+  width: 100%;
+  text-align: left;
+}
+.nav-item:hover    { background: var(--ink-3); color: var(--slate-2); }
+.nav-item.active   { background: rgba(46,196,182,0.12); color: var(--teal); }
+
+/* Pulse animation for hotspot */
+@keyframes pulse-ring {
+  0%   { transform: scale(0.8); opacity: 1; }
+  100% { transform: scale(2.2); opacity: 0; }
+}
+.pulse-ring {
+  animation: pulse-ring 1.8s cubic-bezier(0.215,0.61,0.355,1) infinite;
+}
+
+/* Fade in */
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(8px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+.fade-in { animation: fadeIn 0.35s ease forwards; }
+
+/* Section header divider */
+.section-head {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 16px;
+}
+.section-head::after {
+  content: '';
+  flex: 1;
+  height: 1px;
+  background: var(--ink-4);
+}

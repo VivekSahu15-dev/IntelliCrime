@@ -1,0 +1,386 @@
+state_ut,crime_type,age_group,male,female,transgender,total,year
+Andhra Pradesh,Murder,Below 6 Yrs,7,9,0,16,2024
+Andhra Pradesh,Murder,6-12 Yrs,5,10,0,15,2024
+Andhra Pradesh,Murder,12-16 Yrs,2,1,0,3,2024
+Andhra Pradesh,Murder,16-18 Yrs,4,5,0,9,2024
+Andhra Pradesh,Murder,Total Child,18,25,0,43,2024
+Andhra Pradesh,Murder,18-30 Yrs,122,94,0,216,2024
+Andhra Pradesh,Murder,30-45 Yrs,273,105,1,379,2024
+Andhra Pradesh,Murder,45-60 Yrs,150,67,0,217,2024
+Andhra Pradesh,Murder,60+ Yrs,33,29,0,62,2024
+Andhra Pradesh,Murder,Total Adult,578,295,1,874,2024
+Andhra Pradesh,Murder,Total Victims,596,320,1,917,2024
+Arunachal Pradesh,Murder,Below 6 Yrs,0,1,0,1,2024
+Arunachal Pradesh,Murder,6-12 Yrs,0,1,0,1,2024
+Arunachal Pradesh,Murder,12-16 Yrs,0,2,0,2,2024
+Arunachal Pradesh,Murder,16-18 Yrs,1,1,0,2,2024
+Arunachal Pradesh,Murder,Total Child,1,5,0,6,2024
+Arunachal Pradesh,Murder,18-30 Yrs,13,6,0,19,2024
+Arunachal Pradesh,Murder,30-45 Yrs,6,6,0,12,2024
+Arunachal Pradesh,Murder,45-60 Yrs,11,5,0,16,2024
+Arunachal Pradesh,Murder,60+ Yrs,1,1,0,2,2024
+Arunachal Pradesh,Murder,Total Adult,31,18,0,49,2024
+Arunachal Pradesh,Murder,Total Victims,32,23,0,55,2024
+Assam,Murder,Below 6 Yrs,5,3,0,8,2024
+Assam,Murder,6-12 Yrs,5,5,0,10,2024
+Assam,Murder,12-16 Yrs,10,16,0,26,2024
+Assam,Murder,16-18 Yrs,4,8,0,12,2024
+Assam,Murder,Total Child,24,32,0,56,2024
+Assam,Murder,18-30 Yrs,229,90,0,319,2024
+Assam,Murder,30-45 Yrs,385,107,0,492,2024
+Assam,Murder,45-60 Yrs,69,17,0,86,2024
+Assam,Murder,60+ Yrs,3,0,0,3,2024
+Assam,Murder,Total Adult,686,214,0,900,2024
+Assam,Murder,Total Victims,710,246,0,956,2024
+Bihar,Murder,Below 6 Yrs,11,8,0,19,2024
+Bihar,Murder,6-12 Yrs,21,15,0,36,2024
+Bihar,Murder,12-16 Yrs,25,20,0,45,2024
+Bihar,Murder,16-18 Yrs,20,11,0,31,2024
+Bihar,Murder,Total Child,77,54,0,131,2024
+Bihar,Murder,18-30 Yrs,800,298,0,1098,2024
+Bihar,Murder,30-45 Yrs,759,299,0,1058,2024
+Bihar,Murder,45-60 Yrs,362,104,0,466,2024
+Bihar,Murder,60+ Yrs,77,8,0,85,2024
+Bihar,Murder,Total Adult,1998,709,0,2707,2024
+Bihar,Murder,Total Victims,2075,763,0,2838,2024
+Chhattisgarh,Murder,Below 6 Yrs,15,6,0,21,2024
+Chhattisgarh,Murder,6-12 Yrs,7,5,0,12,2024
+Chhattisgarh,Murder,12-16 Yrs,5,5,0,10,2024
+Chhattisgarh,Murder,16-18 Yrs,6,5,0,11,2024
+Chhattisgarh,Murder,Total Child,33,21,0,54,2024
+Chhattisgarh,Murder,18-30 Yrs,219,113,0,332,2024
+Chhattisgarh,Murder,30-45 Yrs,246,129,1,376,2024
+Chhattisgarh,Murder,45-60 Yrs,133,64,0,197,2024
+Chhattisgarh,Murder,60+ Yrs,69,27,0,96,2024
+Chhattisgarh,Murder,Total Adult,667,333,1,1001,2024
+Chhattisgarh,Murder,Total Victims,700,354,1,1055,2024
+Goa,Murder,Below 6 Yrs,1,1,0,2,2024
+Goa,Murder,6-12 Yrs,1,0,0,1,2024
+Goa,Murder,12-16 Yrs,0,0,0,0,2024
+Goa,Murder,16-18 Yrs,0,0,0,0,2024
+Goa,Murder,Total Child,2,1,0,3,2024
+Goa,Murder,18-30 Yrs,8,1,0,9,2024
+Goa,Murder,30-45 Yrs,6,2,0,8,2024
+Goa,Murder,45-60 Yrs,3,2,0,5,2024
+Goa,Murder,60+ Yrs,2,3,0,5,2024
+Goa,Murder,Total Adult,19,8,0,27,2024
+Goa,Murder,Total Victims,21,9,0,30,2024
+Gujarat,Murder,Below 6 Yrs,12,13,0,25,2024
+Gujarat,Murder,6-12 Yrs,12,11,0,23,2024
+Gujarat,Murder,12-16 Yrs,6,2,0,8,2024
+Gujarat,Murder,16-18 Yrs,8,4,0,12,2024
+Gujarat,Murder,Total Child,38,30,0,68,2024
+Gujarat,Murder,18-30 Yrs,270,63,0,333,2024
+Gujarat,Murder,30-45 Yrs,314,89,0,403,2024
+Gujarat,Murder,45-60 Yrs,126,31,0,157,2024
+Gujarat,Murder,60+ Yrs,25,13,0,38,2024
+Gujarat,Murder,Total Adult,735,196,0,931,2024
+Gujarat,Murder,Total Victims,773,226,0,999,2024
+Haryana,Murder,Below 6 Yrs,10,7,0,17,2024
+Haryana,Murder,6-12 Yrs,8,11,0,19,2024
+Haryana,Murder,12-16 Yrs,8,3,0,11,2024
+Haryana,Murder,16-18 Yrs,9,3,0,12,2024
+Haryana,Murder,Total Child,35,24,0,59,2024
+Haryana,Murder,18-30 Yrs,263,83,0,346,2024
+Haryana,Murder,30-45 Yrs,274,83,0,357,2024
+Haryana,Murder,45-60 Yrs,143,31,0,174,2024
+Haryana,Murder,60+ Yrs,37,10,0,47,2024
+Haryana,Murder,Total Adult,717,207,0,924,2024
+Haryana,Murder,Total Victims,752,231,0,983,2024
+Himachal Pradesh,Murder,Below 6 Yrs,0,0,0,0,2024
+Himachal Pradesh,Murder,6-12 Yrs,0,1,0,1,2024
+Himachal Pradesh,Murder,12-16 Yrs,0,1,0,1,2024
+Himachal Pradesh,Murder,16-18 Yrs,0,0,0,0,2024
+Himachal Pradesh,Murder,Total Child,0,2,0,2,2024
+Himachal Pradesh,Murder,18-30 Yrs,19,8,0,27,2024
+Himachal Pradesh,Murder,30-45 Yrs,26,9,0,35,2024
+Himachal Pradesh,Murder,45-60 Yrs,13,4,0,17,2024
+Himachal Pradesh,Murder,60+ Yrs,2,2,0,4,2024
+Himachal Pradesh,Murder,Total Adult,60,23,0,83,2024
+Himachal Pradesh,Murder,Total Victims,60,25,0,85,2024
+Jharkhand,Murder,Below 6 Yrs,2,0,0,2,2024
+Jharkhand,Murder,6-12 Yrs,0,5,0,5,2024
+Jharkhand,Murder,12-16 Yrs,0,0,0,0,2024
+Jharkhand,Murder,16-18 Yrs,1,1,0,2,2024
+Jharkhand,Murder,Total Child,3,6,0,9,2024
+Jharkhand,Murder,18-30 Yrs,572,196,0,768,2024
+Jharkhand,Murder,30-45 Yrs,444,96,0,540,2024
+Jharkhand,Murder,45-60 Yrs,135,33,0,168,2024
+Jharkhand,Murder,60+ Yrs,0,0,0,0,2024
+Jharkhand,Murder,Total Adult,1151,325,0,1476,2024
+Jharkhand,Murder,Total Victims,1154,331,0,1485,2024
+Karnataka,Murder,Below 6 Yrs,19,22,0,41,2024
+Karnataka,Murder,6-12 Yrs,9,19,0,28,2024
+Karnataka,Murder,12-16 Yrs,12,13,0,25,2024
+Karnataka,Murder,16-18 Yrs,10,9,0,19,2024
+Karnataka,Murder,Total Child,50,63,0,113,2024
+Karnataka,Murder,18-30 Yrs,297,116,1,414,2024
+Karnataka,Murder,30-45 Yrs,330,131,1,462,2024
+Karnataka,Murder,45-60 Yrs,185,64,0,249,2024
+Karnataka,Murder,60+ Yrs,59,46,0,105,2024
+Karnataka,Murder,Total Adult,871,357,2,1230,2024
+Karnataka,Murder,Total Victims,921,420,2,1343,2024
+Kerala,Murder,Below 6 Yrs,17,10,0,27,2024
+Kerala,Murder,6-12 Yrs,6,5,0,11,2024
+Kerala,Murder,12-16 Yrs,2,4,0,6,2024
+Kerala,Murder,16-18 Yrs,0,0,0,0,2024
+Kerala,Murder,Total Child,25,19,0,44,2024
+Kerala,Murder,18-30 Yrs,32,8,0,40,2024
+Kerala,Murder,30-45 Yrs,74,32,0,106,2024
+Kerala,Murder,45-60 Yrs,68,42,0,110,2024
+Kerala,Murder,60+ Yrs,42,27,0,69,2024
+Kerala,Murder,Total Adult,216,109,0,325,2024
+Kerala,Murder,Total Victims,241,128,0,369,2024
+Madhya Pradesh,Murder,Below 6 Yrs,24,21,0,45,2024
+Madhya Pradesh,Murder,6-12 Yrs,9,10,0,19,2024
+Madhya Pradesh,Murder,12-16 Yrs,13,16,0,29,2024
+Madhya Pradesh,Murder,16-18 Yrs,17,15,0,32,2024
+Madhya Pradesh,Murder,Total Child,63,62,0,125,2024
+Madhya Pradesh,Murder,18-30 Yrs,415,159,0,574,2024
+Madhya Pradesh,Murder,30-45 Yrs,454,196,0,650,2024
+Madhya Pradesh,Murder,45-60 Yrs,300,93,0,393,2024
+Madhya Pradesh,Murder,60+ Yrs,102,46,0,148,2024
+Madhya Pradesh,Murder,Total Adult,1271,494,0,1765,2024
+Madhya Pradesh,Murder,Total Victims,1334,556,0,1890,2024
+Maharashtra,Murder,Below 6 Yrs,21,15,0,36,2024
+Maharashtra,Murder,6-12 Yrs,11,18,0,29,2024
+Maharashtra,Murder,12-16 Yrs,18,6,0,24,2024
+Maharashtra,Murder,16-18 Yrs,22,8,0,30,2024
+Maharashtra,Murder,Total Child,72,47,0,119,2024
+Maharashtra,Murder,18-30 Yrs,519,141,1,661,2024
+Maharashtra,Murder,30-45 Yrs,697,184,0,881,2024
+Maharashtra,Murder,45-60 Yrs,265,100,0,365,2024
+Maharashtra,Murder,60+ Yrs,121,64,0,185,2024
+Maharashtra,Murder,Total Adult,1602,489,1,2092,2024
+Maharashtra,Murder,Total Victims,1674,536,1,2211,2024
+Manipur,Murder,Below 6 Yrs,1,0,0,1,2024
+Manipur,Murder,6-12 Yrs,0,1,0,1,2024
+Manipur,Murder,12-16 Yrs,1,1,0,2,2024
+Manipur,Murder,16-18 Yrs,0,0,0,0,2024
+Manipur,Murder,Total Child,2,2,0,4,2024
+Manipur,Murder,18-30 Yrs,12,4,0,16,2024
+Manipur,Murder,30-45 Yrs,46,3,0,49,2024
+Manipur,Murder,45-60 Yrs,18,7,0,25,2024
+Manipur,Murder,60+ Yrs,2,4,0,6,2024
+Manipur,Murder,Total Adult,78,18,0,96,2024
+Manipur,Murder,Total Victims,80,20,0,100,2024
+Meghalaya,Murder,Below 6 Yrs,0,1,0,1,2024
+Meghalaya,Murder,6-12 Yrs,0,0,0,0,2024
+Meghalaya,Murder,12-16 Yrs,1,0,0,1,2024
+Meghalaya,Murder,16-18 Yrs,0,0,0,0,2024
+Meghalaya,Murder,Total Child,1,1,0,2,2024
+Meghalaya,Murder,18-30 Yrs,31,6,0,37,2024
+Meghalaya,Murder,30-45 Yrs,37,5,0,42,2024
+Meghalaya,Murder,45-60 Yrs,8,1,0,9,2024
+Meghalaya,Murder,60+ Yrs,0,0,0,0,2024
+Meghalaya,Murder,Total Adult,76,12,0,88,2024
+Meghalaya,Murder,Total Victims,77,13,0,90,2024
+Mizoram,Murder,Below 6 Yrs,0,0,0,0,2024
+Mizoram,Murder,6-12 Yrs,0,0,0,0,2024
+Mizoram,Murder,12-16 Yrs,0,0,0,0,2024
+Mizoram,Murder,16-18 Yrs,0,0,0,0,2024
+Mizoram,Murder,Total Child,0,0,0,0,2024
+Mizoram,Murder,18-30 Yrs,7,2,0,9,2024
+Mizoram,Murder,30-45 Yrs,11,5,0,16,2024
+Mizoram,Murder,45-60 Yrs,4,5,0,9,2024
+Mizoram,Murder,60+ Yrs,2,1,0,3,2024
+Mizoram,Murder,Total Adult,24,13,0,37,2024
+Mizoram,Murder,Total Victims,24,13,0,37,2024
+Nagaland,Murder,Below 6 Yrs,0,0,0,0,2024
+Nagaland,Murder,6-12 Yrs,0,0,0,0,2024
+Nagaland,Murder,12-16 Yrs,0,0,0,0,2024
+Nagaland,Murder,16-18 Yrs,0,0,0,0,2024
+Nagaland,Murder,Total Child,0,0,0,0,2024
+Nagaland,Murder,18-30 Yrs,2,0,0,2,2024
+Nagaland,Murder,30-45 Yrs,12,1,0,13,2024
+Nagaland,Murder,45-60 Yrs,1,0,0,1,2024
+Nagaland,Murder,60+ Yrs,2,0,0,2,2024
+Nagaland,Murder,Total Adult,17,1,0,18,2024
+Nagaland,Murder,Total Victims,17,1,0,18,2024
+Odisha,Murder,Below 6 Yrs,0,0,0,0,2024
+Odisha,Murder,6-12 Yrs,0,1,0,1,2024
+Odisha,Murder,12-16 Yrs,0,3,0,3,2024
+Odisha,Murder,16-18 Yrs,0,5,0,5,2024
+Odisha,Murder,Total Child,0,9,0,9,2024
+Odisha,Murder,18-30 Yrs,617,349,0,966,2024
+Odisha,Murder,30-45 Yrs,97,114,0,211,2024
+Odisha,Murder,45-60 Yrs,51,43,0,94,2024
+Odisha,Murder,60+ Yrs,0,0,0,0,2024
+Odisha,Murder,Total Adult,765,506,0,1271,2024
+Odisha,Murder,Total Victims,765,515,0,1280,2024
+Punjab,Murder,Below 6 Yrs,2,2,0,4,2024
+Punjab,Murder,6-12 Yrs,4,5,0,9,2024
+Punjab,Murder,12-16 Yrs,2,1,0,3,2024
+Punjab,Murder,16-18 Yrs,8,3,0,11,2024
+Punjab,Murder,Total Child,16,11,0,27,2024
+Punjab,Murder,18-30 Yrs,224,48,0,272,2024
+Punjab,Murder,30-45 Yrs,249,69,0,318,2024
+Punjab,Murder,45-60 Yrs,123,22,0,145,2024
+Punjab,Murder,60+ Yrs,26,6,0,32,2024
+Punjab,Murder,Total Adult,622,145,0,767,2024
+Punjab,Murder,Total Victims,638,156,0,794,2024
+Rajasthan,Murder,Below 6 Yrs,4,4,0,8,2024
+Rajasthan,Murder,6-12 Yrs,5,3,0,8,2024
+Rajasthan,Murder,12-16 Yrs,2,3,0,5,2024
+Rajasthan,Murder,16-18 Yrs,6,13,0,19,2024
+Rajasthan,Murder,Total Child,17,23,0,40,2024
+Rajasthan,Murder,18-30 Yrs,429,129,0,558,2024
+Rajasthan,Murder,30-45 Yrs,606,112,0,718,2024
+Rajasthan,Murder,45-60 Yrs,274,22,0,296,2024
+Rajasthan,Murder,60+ Yrs,9,7,0,16,2024
+Rajasthan,Murder,Total Adult,1318,270,0,1588,2024
+Rajasthan,Murder,Total Victims,1335,293,0,1628,2024
+Sikkim,Murder,Below 6 Yrs,0,0,0,0,2024
+Sikkim,Murder,6-12 Yrs,0,0,0,0,2024
+Sikkim,Murder,12-16 Yrs,0,1,0,1,2024
+Sikkim,Murder,16-18 Yrs,0,0,0,0,2024
+Sikkim,Murder,Total Child,0,1,0,1,2024
+Sikkim,Murder,18-30 Yrs,1,0,0,1,2024
+Sikkim,Murder,30-45 Yrs,3,6,0,9,2024
+Sikkim,Murder,45-60 Yrs,1,1,0,2,2024
+Sikkim,Murder,60+ Yrs,0,1,0,1,2024
+Sikkim,Murder,Total Adult,5,8,0,13,2024
+Sikkim,Murder,Total Victims,5,9,0,14,2024
+Tamil Nadu,Murder,Below 6 Yrs,16,15,0,31,2024
+Tamil Nadu,Murder,6-12 Yrs,10,7,0,17,2024
+Tamil Nadu,Murder,12-16 Yrs,2,5,0,7,2024
+Tamil Nadu,Murder,16-18 Yrs,5,5,0,10,2024
+Tamil Nadu,Murder,Total Child,33,32,0,65,2024
+Tamil Nadu,Murder,18-30 Yrs,354,60,0,414,2024
+Tamil Nadu,Murder,30-45 Yrs,455,125,1,581,2024
+Tamil Nadu,Murder,45-60 Yrs,283,81,0,364,2024
+Tamil Nadu,Murder,60+ Yrs,108,82,0,190,2024
+Tamil Nadu,Murder,Total Adult,1200,348,1,1549,2024
+Tamil Nadu,Murder,Total Victims,1233,380,1,1614,2024
+Telangana,Murder,Below 6 Yrs,2,12,0,14,2024
+Telangana,Murder,6-12 Yrs,9,6,0,15,2024
+Telangana,Murder,12-16 Yrs,5,3,0,8,2024
+Telangana,Murder,16-18 Yrs,3,1,0,4,2024
+Telangana,Murder,Total Child,19,22,0,41,2024
+Telangana,Murder,18-30 Yrs,151,71,1,223,2024
+Telangana,Murder,30-45 Yrs,349,122,0,471,2024
+Telangana,Murder,45-60 Yrs,201,64,0,265,2024
+Telangana,Murder,60+ Yrs,41,27,0,68,2024
+Telangana,Murder,Total Adult,742,284,1,1027,2024
+Telangana,Murder,Total Victims,761,306,1,1068,2024
+Tripura,Murder,Below 6 Yrs,0,0,0,0,2024
+Tripura,Murder,6-12 Yrs,0,0,0,0,2024
+Tripura,Murder,12-16 Yrs,4,0,0,4,2024
+Tripura,Murder,16-18 Yrs,0,1,0,1,2024
+Tripura,Murder,Total Child,4,1,0,5,2024
+Tripura,Murder,18-30 Yrs,16,17,0,33,2024
+Tripura,Murder,30-45 Yrs,23,23,0,46,2024
+Tripura,Murder,45-60 Yrs,22,9,0,31,2024
+Tripura,Murder,60+ Yrs,4,0,0,4,2024
+Tripura,Murder,Total Adult,65,49,0,114,2024
+Tripura,Murder,Total Victims,69,50,0,119,2024
+Uttar Pradesh,Murder,Below 6 Yrs,19,11,0,30,2024
+Uttar Pradesh,Murder,6-12 Yrs,31,19,0,50,2024
+Uttar Pradesh,Murder,12-16 Yrs,44,30,0,74,2024
+Uttar Pradesh,Murder,16-18 Yrs,22,29,0,51,2024
+Uttar Pradesh,Murder,Total Child,116,89,0,205,2024
+Uttar Pradesh,Murder,18-30 Yrs,893,258,1,1152,2024
+Uttar Pradesh,Murder,30-45 Yrs,1000,286,0,1286,2024
+Uttar Pradesh,Murder,45-60 Yrs,477,110,0,587,2024
+Uttar Pradesh,Murder,60+ Yrs,50,14,0,64,2024
+Uttar Pradesh,Murder,Total Adult,2420,668,1,3089,2024
+Uttar Pradesh,Murder,Total Victims,2536,757,1,3294,2024
+Uttarakhand,Murder,Below 6 Yrs,0,0,0,0,2024
+Uttarakhand,Murder,6-12 Yrs,0,0,0,0,2024
+Uttarakhand,Murder,12-16 Yrs,4,1,0,5,2024
+Uttarakhand,Murder,16-18 Yrs,4,1,0,5,2024
+Uttarakhand,Murder,Total Child,8,2,0,10,2024
+Uttarakhand,Murder,18-30 Yrs,67,18,0,85,2024
+Uttarakhand,Murder,30-45 Yrs,65,22,0,87,2024
+Uttarakhand,Murder,45-60 Yrs,26,11,0,37,2024
+Uttarakhand,Murder,60+ Yrs,3,3,0,6,2024
+Uttarakhand,Murder,Total Adult,161,54,0,215,2024
+Uttarakhand,Murder,Total Victims,169,56,0,225,2024
+West Bengal,Murder,Below 6 Yrs,6,3,0,9,2024
+West Bengal,Murder,6-12 Yrs,5,7,0,12,2024
+West Bengal,Murder,12-16 Yrs,4,8,0,12,2024
+West Bengal,Murder,16-18 Yrs,1,5,0,6,2024
+West Bengal,Murder,Total Child,16,23,0,39,2024
+West Bengal,Murder,18-30 Yrs,366,288,0,654,2024
+West Bengal,Murder,30-45 Yrs,413,260,0,673,2024
+West Bengal,Murder,45-60 Yrs,176,93,0,269,2024
+West Bengal,Murder,60+ Yrs,2,1,0,3,2024
+West Bengal,Murder,Total Adult,957,642,0,1599,2024
+West Bengal,Murder,Total Victims,973,665,0,1638,2024
+A&N Islands,Murder,Below 6 Yrs,0,0,0,0,2024
+A&N Islands,Murder,6-12 Yrs,0,0,0,0,2024
+A&N Islands,Murder,12-16 Yrs,0,1,0,1,2024
+A&N Islands,Murder,16-18 Yrs,0,0,0,0,2024
+A&N Islands,Murder,Total Child,0,1,0,1,2024
+A&N Islands,Murder,18-30 Yrs,0,1,0,1,2024
+A&N Islands,Murder,30-45 Yrs,4,2,0,6,2024
+A&N Islands,Murder,45-60 Yrs,1,1,0,2,2024
+A&N Islands,Murder,60+ Yrs,1,1,0,2,2024
+A&N Islands,Murder,Total Adult,6,5,0,11,2024
+A&N Islands,Murder,Total Victims,6,6,0,12,2024
+Chandigarh,Murder,Below 6 Yrs,0,0,0,0,2024
+Chandigarh,Murder,6-12 Yrs,0,1,0,1,2024
+Chandigarh,Murder,12-16 Yrs,1,0,0,1,2024
+Chandigarh,Murder,16-18 Yrs,0,0,0,0,2024
+Chandigarh,Murder,Total Child,1,1,0,2,2024
+Chandigarh,Murder,18-30 Yrs,8,3,0,11,2024
+Chandigarh,Murder,30-45 Yrs,3,0,0,3,2024
+Chandigarh,Murder,45-60 Yrs,3,1,0,4,2024
+Chandigarh,Murder,60+ Yrs,2,0,0,2,2024
+Chandigarh,Murder,Total Adult,16,4,0,20,2024
+Chandigarh,Murder,Total Victims,17,5,0,22,2024
+D&N Haveli and Daman & Diu,Murder,Below 6 Yrs,0,0,0,0,2024
+D&N Haveli and Daman & Diu,Murder,6-12 Yrs,0,0,0,0,2024
+D&N Haveli and Daman & Diu,Murder,12-16 Yrs,0,0,0,0,2024
+D&N Haveli and Daman & Diu,Murder,16-18 Yrs,0,0,0,0,2024
+D&N Haveli and Daman & Diu,Murder,Total Child,0,0,0,0,2024
+D&N Haveli and Daman & Diu,Murder,18-30 Yrs,5,1,0,6,2024
+D&N Haveli and Daman & Diu,Murder,30-45 Yrs,3,1,0,4,2024
+D&N Haveli and Daman & Diu,Murder,45-60 Yrs,1,1,0,2,2024
+D&N Haveli and Daman & Diu,Murder,60+ Yrs,0,0,0,0,2024
+D&N Haveli and Daman & Diu,Murder,Total Adult,9,3,0,12,2024
+D&N Haveli and Daman & Diu,Murder,Total Victims,9,3,0,12,2024
+Delhi,Murder,Below 6 Yrs,1,11,0,12,2024
+Delhi,Murder,6-12 Yrs,3,2,0,5,2024
+Delhi,Murder,12-16 Yrs,14,5,0,19,2024
+Delhi,Murder,16-18 Yrs,12,2,0,14,2024
+Delhi,Murder,Total Child,30,20,0,50,2024
+Delhi,Murder,18-30 Yrs,211,27,0,238,2024
+Delhi,Murder,30-45 Yrs,146,30,0,176,2024
+Delhi,Murder,45-60 Yrs,32,10,1,43,2024
+Delhi,Murder,60+ Yrs,11,4,0,15,2024
+Delhi,Murder,Total Adult,400,71,1,472,2024
+Delhi,Murder,Total Victims,430,91,1,522,2024
+Jammu & Kashmir,Murder,Below 6 Yrs,2,3,0,5,2024
+Jammu & Kashmir,Murder,6-12 Yrs,0,1,0,1,2024
+Jammu & Kashmir,Murder,12-16 Yrs,0,1,0,1,2024
+Jammu & Kashmir,Murder,16-18 Yrs,0,0,0,0,2024
+Jammu & Kashmir,Murder,Total Child,2,5,0,7,2024
+Jammu & Kashmir,Murder,18-30 Yrs,21,6,0,27,2024
+Jammu & Kashmir,Murder,30-45 Yrs,31,5,0,36,2024
+Jammu & Kashmir,Murder,45-60 Yrs,16,4,0,20,2024
+Jammu & Kashmir,Murder,60+ Yrs,4,3,0,7,2024
+Jammu & Kashmir,Murder,Total Adult,72,18,0,90,2024
+Jammu & Kashmir,Murder,Total Victims,74,23,0,97,2024
+Ladakh,Murder,Below 6 Yrs,0,0,0,0,2024
+Ladakh,Murder,6-12 Yrs,0,0,0,0,2024
+Ladakh,Murder,12-16 Yrs,0,0,0,0,2024
+Ladakh,Murder,16-18 Yrs,0,0,0,0,2024
+Ladakh,Murder,Total Child,0,0,0,0,2024
+Ladakh,Murder,18-30 Yrs,0,0,0,0,2024
+Ladakh,Murder,30-45 Yrs,1,0,0,1,2024
+Ladakh,Murder,45-60 Yrs,0,0,0,0,2024
+Ladakh,Murder,60+ Yrs,0,0,0,0,2024
+Ladakh,Murder,Total Adult,1,0,0,1,2024
+Ladakh,Murder,Total Victims,1,0,0,1,2024
+Lakshadweep,Murder,Below 6 Yrs,0,0,0,0,2024
+Lakshadweep,Murder,6-12 Yrs,0,0,0,0,2024
+Lakshadweep,Murder,12-16 Yrs,0,0,0,0,2024
+Lakshadweep,Murder,16-18 Yrs,0,0,0,0,2024
+Lakshadweep,Murder,Total Child,0,0,0,0,2024
+Lakshadweep,Murder,18-30 Yrs,0,0,0,0,2024
+Lakshadweep,Murder,30-45 Yrs,0,0,0,0,2024
+Lakshadweep,Murder,45-60 Yrs,0,0,0,0,2024
+Lakshadweep,Murder,60+ Yrs,0,0,0,0,2024
+Lakshadweep,Murder,Total Adult,0,0,0,0,2024
+Lakshadweep,Murder,Total Victims,0,0,0,0,2024
