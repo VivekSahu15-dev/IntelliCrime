@@ -1,5 +1,7 @@
 // IntelliCrime — API service layer
-// All calls proxy through Vite to http://localhost:8000
+//
+// Local dev:  Vite proxies /api → localhost:8000  (set in vite.config.js)
+// Production: FastAPI serves React + API from same origin, so /api just works
 
 const BASE = '/api'
 
